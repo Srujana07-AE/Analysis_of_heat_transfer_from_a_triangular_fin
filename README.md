@@ -1,0 +1,1 @@
+# Analysis_of_heat_transfer_from_a_triangular_fin
